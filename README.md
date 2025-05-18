@@ -71,13 +71,3 @@ Siga estes passos para executar o projeto no seu ambiente de desenvolvimento:
 2.  Cole ou digite suas anotações desorganizadas nessa caixa de texto.
 3.  Clique no botão "Formatar Anotações".
 4.  Abaixo, na seção "2. Anotações Formatadas:", a IA do Gemini processará suas anotações e exibirá uma versão organizada e formatada em Markdown.
-
-## Estrutura do Projeto
-organizador-de-anotacoes/
-├── .venv/             # Ambiente virtual Python (ignorado pelo Git)
-├── .env                # Arquivo de variáveis de ambiente (contém a chave da API - ignorado pelo Git)
-├── app.py              # O código principal da aplicação Flask
-├── templates/
-│   └── index.html    # O template HTML da página web
-├── requirements.txt    # Lista das dependências Python
-└── README.md           # Este arquivo
